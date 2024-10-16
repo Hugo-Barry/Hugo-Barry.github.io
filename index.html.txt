@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1> Hi john>
-<p> shouldn't have pressed that... </p>
-</body>
-</html>
